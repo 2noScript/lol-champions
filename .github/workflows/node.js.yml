@@ -26,4 +26,3 @@ jobs:
       # - run: npm ci
       - run: yarn install --frozen-lockfile
       - run: yarn build
-        if: commandExists('vite')
