@@ -1,11 +1,11 @@
 
-import './App.scss'
+import { useState } from "react"
 
 function App() {
 
   return (
     <>
-     <div>test</div>
+     <div className="text-red-500">test</div>
     </>
   )
 }
