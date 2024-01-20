@@ -25,3 +25,4 @@
 | status             | api                                                   |
 | ------------------ | ----------------------------------------------------- |
 | Is being completed | <a>https://github.com/2noScript/lol-champions-api</a> |
+| raw                | <a>https://lol-champions-api.vercel.app/api/v1</a>    |
